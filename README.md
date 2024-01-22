@@ -126,24 +126,55 @@ The reasoning behind Kali Linux is simple. I am leveling up my skills to become 
 
 ![IMG_1542](https://github.com/esteban-flores/MacbookPro/assets/60724828/1cc21169-2426-4993-ad06-e4a759cfb533)
 
-<!--
+#### 3) Kali Installation
 
-3) Kali Installation
+The installation process below was done on a virtual machine so that I could get the best screenshots.
+Taking pictures of the laptop with the phone were not coming out well.
+The installation is shown how a beginner could do the install initially.
+The process could be redone when one is more familiar and the instal could be more customized.
 
--->
+![Kali_Install_1](https://github.com/esteban-flores/MacbookPro/assets/60724828/98dddc78-cb82-412b-97ef-4a59075eed6e)
 
-Once you put type in the username and password, you are now ready to put a hoodie on and begin using the tools included in Kali Linux.
-Remember, to update and upgrade to keep up to date!
+![Kali_Install_2](https://github.com/esteban-flores/MacbookPro/assets/60724828/35cb7a34-8f61-4d27-9328-0a69594b1ef2)
 
-### In upcoming projects, I’ll document how I converted mini workstation(s) into servers to replace routers, add cameras, and self host services. 
+![Kali_Install_3](https://github.com/esteban-flores/MacbookPro/assets/60724828/71b17670-3341-4542-9046-59e59e31173d)
 
+![Kali_Install_4](https://github.com/esteban-flores/MacbookPro/assets/60724828/537e0d37-4aea-4d69-a241-6b6bfb10f504)
 
+![Kali_Install_5](https://github.com/esteban-flores/MacbookPro/assets/60724828/a3b6f7eb-d33e-4b97-ad7e-e04077af17a3)
 
+![Kali_Install_6](https://github.com/esteban-flores/MacbookPro/assets/60724828/7ad8785d-58f5-4cc5-90b9-6182e8ba12f1)
 
+![Kali_Install_7](https://github.com/esteban-flores/MacbookPro/assets/60724828/eb0b95c2-3801-482f-b22f-5d8a120ac59e)
 
+![Kali_Install_8](https://github.com/esteban-flores/MacbookPro/assets/60724828/58521b3e-2373-4084-829e-bee0527529ba)
 
+![Kali_Install_9](https://github.com/esteban-flores/MacbookPro/assets/60724828/eaf66675-fb8c-4774-bde3-1a442027ef14)
 
+![Kali_Install_10](https://github.com/esteban-flores/MacbookPro/assets/60724828/df9e86ca-5c30-4523-a433-e6758c7a4e93)
 
+![Kali_Install_11](https://github.com/esteban-flores/MacbookPro/assets/60724828/36919c89-1d06-4783-8b4d-952eae26b850)
 
+![Kali_Install_12](https://github.com/esteban-flores/MacbookPro/assets/60724828/b44c8899-f727-4418-99cc-53c9e8413794)
 
+![Kali_Install_13](https://github.com/esteban-flores/MacbookPro/assets/60724828/071a6eaa-1655-4bee-b0ed-0e0561d97ac5)
 
+![Kali_Install_14](https://github.com/esteban-flores/MacbookPro/assets/60724828/57770536-6b99-4ea4-891f-1070cdec24ea)
+
+![Kali_Install_15](https://github.com/esteban-flores/MacbookPro/assets/60724828/f3958318-ab8c-4044-ad6b-5b760be0d107)
+
+![Kali_Install_16](https://github.com/esteban-flores/MacbookPro/assets/60724828/c1ee00bd-a221-4366-bb05-8e16139a5361)
+
+![Kali_Install_17](https://github.com/esteban-flores/MacbookPro/assets/60724828/c65acaab-ee4f-4240-b2ac-87f9f48c8c0a)
+
+![Kali_Install_18](https://github.com/esteban-flores/MacbookPro/assets/60724828/59d76ff8-c03e-4cd5-afd5-ab427ab0fea5)
+
+![Kali_Install_19](https://github.com/esteban-flores/MacbookPro/assets/60724828/3b8cf908-eb9c-4faf-b7e0-2013542f8a0a)
+
+![Kali_Install_20](https://github.com/esteban-flores/MacbookPro/assets/60724828/58c16da4-3e0c-4d1b-843a-a51b94554fa1)
+
+### Once you put type in the username and password, you are now ready to put on a hoodie and begin using the tools included in Kali Linux.
+
+### Remember to update and upgrade to keep up to date!
+
+## In upcoming projects, I’ll document how I converted mini workstation(s) into servers to replace routers, add cameras, and self host services.
